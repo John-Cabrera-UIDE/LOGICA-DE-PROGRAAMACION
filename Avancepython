@@ -1,0 +1,6 @@
+import random
+import string
+longitud = int(input("¿Cuántos caracteres quieres que tenga la contraseña? "))
+letras = string.ascii_letters
+numeros = string.digits
+simbolos = string.punctuation
