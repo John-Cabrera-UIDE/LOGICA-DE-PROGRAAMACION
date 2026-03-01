@@ -1,0 +1,1 @@
+Buen dia Ing, en este repositorio esta toda la informacion solicitada, como el video es bastante pesado lo subi a drive y el link esta en un readme por si acaso le adjunto aqui: https://drive.google.com/drive/folders/1Sd18k102Xu0XCnIsev4_XCbHQzOTOsTE?usp=drive_link
